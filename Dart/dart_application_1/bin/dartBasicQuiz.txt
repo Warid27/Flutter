@@ -1,0 +1,11 @@
+Pertanyaan 1:
+What data type is this data? (true)
+Boolean
+
+Pertanyaan 2:
+What data type is this? ("Yes")
+String
+
+Pertanyaan 3:
+What is the use of Return types in dart?
+It only allows a function to return specific data type & enables type checks
