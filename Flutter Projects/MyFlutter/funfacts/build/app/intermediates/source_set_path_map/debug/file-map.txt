@@ -1,0 +1,42 @@
+com.dummyapps.funfacts.app-lifecycle-livedata-core-2.7.0-0 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\02243cbda1097cf2679cfc3ed55e6e1c\transformed\lifecycle-livedata-core-2.7.0\res
+com.dummyapps.funfacts.app-jetified-tracing-1.2.0-1 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\0c1b80a187dad483c22a1514ae73b0d3\transformed\jetified-tracing-1.2.0\res
+com.dummyapps.funfacts.app-jetified-lifecycle-viewmodel-ktx-2.7.0-2 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\114b0513f4092a9d58fd74077b9d6cbc\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.dummyapps.funfacts.app-jetified-datastore-1.0.0-3 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\17e49655016450d246190f4c40a9f387\transformed\jetified-datastore-1.0.0\res
+com.dummyapps.funfacts.app-jetified-activity-1.8.1-4 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\1e02aaa01b49aab8d0640f27eb14c80a\transformed\jetified-activity-1.8.1\res
+com.dummyapps.funfacts.app-jetified-window-java-1.2.0-5 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\281bae0800340776530495a1387a0c4d\transformed\jetified-window-java-1.2.0\res
+com.dummyapps.funfacts.app-lifecycle-livedata-2.7.0-6 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\37ec8208535a375394f444b8b66716af\transformed\lifecycle-livedata-2.7.0\res
+com.dummyapps.funfacts.app-jetified-appcompat-resources-1.1.0-7 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\380c1beb93c9701b1dd1ccadd9a15591\transformed\jetified-appcompat-resources-1.1.0\res
+com.dummyapps.funfacts.app-core-runtime-2.2.0-8 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\3e9f85514c7861359c4f6d670f5fb2d1\transformed\core-runtime-2.2.0\res
+com.dummyapps.funfacts.app-jetified-startup-runtime-1.1.1-9 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\3f9be52c55e035f9f77a724c70dcfc64\transformed\jetified-startup-runtime-1.1.1\res
+com.dummyapps.funfacts.app-jetified-lifecycle-process-2.7.0-10 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\4d10b0eade4bf3aa9b01a1816876cf69\transformed\jetified-lifecycle-process-2.7.0\res
+com.dummyapps.funfacts.app-slidingpanelayout-1.2.0-11 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\54594dacf086150e51b48b6848cce417\transformed\slidingpanelayout-1.2.0\res
+com.dummyapps.funfacts.app-fragment-1.7.1-12 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\5921b823750d48b431a2cf152bc958ed\transformed\fragment-1.7.1\res
+com.dummyapps.funfacts.app-jetified-core-ktx-1.13.1-13 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\5957ecf6f0e3e1e0cb1838548acf88e3\transformed\jetified-core-ktx-1.13.1\res
+com.dummyapps.funfacts.app-jetified-core-1.0.0-14 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\62c7ba51fbac3327126fde810c422a18\transformed\jetified-core-1.0.0\res
+com.dummyapps.funfacts.app-jetified-annotation-experimental-1.4.0-15 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\6d4eb28833e53fcba7af0b60f1e9e57f\transformed\jetified-annotation-experimental-1.4.0\res
+com.dummyapps.funfacts.app-preference-1.2.1-16 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\6ea5acac712b67a6bf9b645e45f57d97\transformed\preference-1.2.1\res
+com.dummyapps.funfacts.app-recyclerview-1.0.0-17 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\6fa4a3c3b3a18155c06082c21aafeaeb\transformed\recyclerview-1.0.0\res
+com.dummyapps.funfacts.app-jetified-fragment-ktx-1.7.1-18 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\7577a9e8354aded9b34bd41468f4613e\transformed\jetified-fragment-ktx-1.7.1\res
+com.dummyapps.funfacts.app-jetified-activity-ktx-1.8.1-19 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\78b9f42355dd979b7afc68507ae53814\transformed\jetified-activity-ktx-1.8.1\res
+com.dummyapps.funfacts.app-appcompat-1.1.0-20 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\92c71758485b5e241b69c3445277cb75\transformed\appcompat-1.1.0\res
+com.dummyapps.funfacts.app-jetified-lifecycle-livedata-core-ktx-2.7.0-21 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\933054880dfee7b045f8d6a14ed907ae\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.dummyapps.funfacts.app-core-1.13.1-22 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\936f92aca33fbcb9f516f2d6ffe6b7d2\transformed\core-1.13.1\res
+com.dummyapps.funfacts.app-lifecycle-runtime-2.7.0-23 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\a5e70b899c0786ae15177437c94490d3\transformed\lifecycle-runtime-2.7.0\res
+com.dummyapps.funfacts.app-transition-1.4.1-24 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\a6d0cc870a98e7ad10b79bbddae9227d\transformed\transition-1.4.1\res
+com.dummyapps.funfacts.app-lifecycle-viewmodel-2.7.0-25 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\ada4be5e43b34b86813c991ee7ff5660\transformed\lifecycle-viewmodel-2.7.0\res
+com.dummyapps.funfacts.app-coordinatorlayout-1.0.0-26 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\bbc5eca407a1a8a4e2087b8b0036e376\transformed\coordinatorlayout-1.0.0\res
+com.dummyapps.funfacts.app-jetified-window-1.2.0-27 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\d4a53eef50390dafe6da0b63187a9e09\transformed\jetified-window-1.2.0\res
+com.dummyapps.funfacts.app-jetified-datastore-preferences-1.0.0-28 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\d4f4313d55cf76ba4d192b428066b005\transformed\jetified-datastore-preferences-1.0.0\res
+com.dummyapps.funfacts.app-jetified-profileinstaller-1.3.1-29 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\dd3ce4bc1beb40c06c1d4ae1a5f9bcd3\transformed\jetified-profileinstaller-1.3.1\res
+com.dummyapps.funfacts.app-jetified-lifecycle-runtime-ktx-2.7.0-30 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\f1429b8b508f09ae5fc4e74a35542408\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.dummyapps.funfacts.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-31 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\f5b567aa9341113899d03136c31624ed\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.dummyapps.funfacts.app-jetified-savedstate-ktx-1.2.1-32 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\f701071bf5145b0576f2ab3db67dd37f\transformed\jetified-savedstate-ktx-1.2.1\res
+com.dummyapps.funfacts.app-jetified-savedstate-1.2.1-33 C:\Users\SDN WATES 2\.gradle\caches\8.12\transforms\fccee4d29654743d09bc1046baff6099\transformed\jetified-savedstate-1.2.1\res
+com.dummyapps.funfacts.app-debug-34 E:\Unity\Pelatihan-main\Udemy\Flutter\Flutter Projects\MyFlutter\funfacts\android\app\src\debug\res
+com.dummyapps.funfacts.app-main-35 E:\Unity\Pelatihan-main\Udemy\Flutter\Flutter Projects\MyFlutter\funfacts\android\app\src\main\res
+com.dummyapps.funfacts.app-pngs-36 E:\Unity\Pelatihan-main\Udemy\Flutter\Flutter Projects\MyFlutter\funfacts\build\app\generated\res\pngs\debug
+com.dummyapps.funfacts.app-resValues-37 E:\Unity\Pelatihan-main\Udemy\Flutter\Flutter Projects\MyFlutter\funfacts\build\app\generated\res\resValues\debug
+com.dummyapps.funfacts.app-packageDebugResources-38 E:\Unity\Pelatihan-main\Udemy\Flutter\Flutter Projects\MyFlutter\funfacts\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.dummyapps.funfacts.app-packageDebugResources-39 E:\Unity\Pelatihan-main\Udemy\Flutter\Flutter Projects\MyFlutter\funfacts\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.dummyapps.funfacts.app-merged_res-40 E:\Unity\Pelatihan-main\Udemy\Flutter\Flutter Projects\MyFlutter\funfacts\build\app\intermediates\merged_res\debug
+com.dummyapps.funfacts.app-packaged_res-41 E:\Unity\Pelatihan-main\Udemy\Flutter\Flutter Projects\MyFlutter\funfacts\build\shared_preferences_android\intermediates\packaged_res\debug
